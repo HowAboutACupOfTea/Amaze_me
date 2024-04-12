@@ -1,0 +1,27 @@
+{
+  "profiles": {
+    "AmazeMe.Renderer (Package)": {
+      "commandName": "MsixPackage",
+      "commandLineArgs": "10 15 6"
+    },
+    "AmazeMe.Renderer (Unpackaged)": {
+      "commandName": "Project"
+    },
+    "GenerateWithRectanglesBig": {
+      "commandName": "MsixPackage",
+      "commandLineArgs": "20 20 4"
+    },
+    "GenerateWithHexagonsBig": {
+      "commandName": "MsixPackage",
+      "commandLineArgs": "20 20 6"
+    },
+    "GenerateWithHexagonsSmall": {
+      "commandName": "MsixPackage",
+      "commandLineArgs": "14 15 6"
+    },
+    "GenerateWithRectanglesSmall": {
+      "commandName": "MsixPackage",
+      "commandLineArgs": "5 5 4"
+    }
+  }
+}
